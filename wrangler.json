@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "file-manage-system",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4fe1af31-75e2-4117-9344-21c8907b6b39",
+			"database_name": "file_manage_system"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
